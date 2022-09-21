@@ -1,0 +1,1 @@
+az group create --location eastus --name kalpesh-group
